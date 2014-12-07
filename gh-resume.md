@@ -95,6 +95,7 @@ FedScoop 50 Award, 2012
 
 ### Media
 
+"[2014: Year of Open Source Miracles](http://opensource.com/government/14/11/open-source-software-security-vulnerabilities)", opensource.com, 25 November 2014
 "[5 agency IT predictions for 2015](http://fcw.com/articles/2014/09/30/5-agency-it-predictions-for-2015.aspx)", Federal Computer Week, 3 October 2014
 "[Red Hat Cloud for Government](http://fedscoop.com/red-hat-cloud-for-government/)", FedScoop, 22 September 2014
 "[Red Hat’s Gunnar Hellekson talks open source](http://fedscoop.com/red-hats-gunnar-hellekson-talks-open-source/)", FedScoop, 10 September 2014
