@@ -96,6 +96,8 @@ FedScoop 50 Award, 2012
 
 ### Media
 
+"[Where the cloud fits in the future of government IT operations](http://americancityandcounty.com/hardware-software/where-cloud-fits-future-government-it-operations-related-video)", American City & County, 30 March 2015
+"[A new take on the cloud divide: 'It's pets and cattle'](http://fcw.com/articles/2015/02/12/looking-at-federal-cloud.aspx)", Federal Computer Week, 12 February 2015
 "[2014: Year of Open Source Miracles](http://opensource.com/government/14/11/open-source-software-security-vulnerabilities)", opensource.com, 25 November 2014
 "[5 agency IT predictions for 2015](http://fcw.com/articles/2014/09/30/5-agency-it-predictions-for-2015.aspx)", Federal Computer Week, 3 October 2014
 "[Red Hat Cloud for Government](http://fedscoop.com/red-hat-cloud-for-government/)", FedScoop, 22 September 2014
@@ -132,6 +134,7 @@ FedScoop 50 Award, 2012
 
 ### Talks
 
+"[New Paradigms in Application Development](https://www.eventbrite.com/e/new-paradigms-in-application-development-carving-governments-place-in-the-cloud-registration-14976848156)", FedInsider and George Washington University, 12 February 2015
 "[US Government vs. Open Source](http://s2lq.com/programme)", Salon du Logiciel Libre du Québec, 17 September 2014
 "[We Can Do More When We Work Together](http://www.slideshare.net/FedScoop/lcogit-fedscoop201408)", Lowering Cost of Government IT Summit 2014, 25 August 2014
 "[Bombers in the Data Center: Lessons from World War II](http://www.gartner.com/technology/summits/na/it-operations/agenda/day-4.jsp#)", Gartner IT Infrastructure & Operations Management Summit, 10 June 2014
