@@ -99,6 +99,9 @@ FedScoop 50 Award, 2012
 
 ### Media
 
+"[Open source software gains traction in federal
+IT](http://fedscoop.com/open-source-gains-traction-in-federal-it-speakers)", FedScoop, 10 November 2015
+"[Migrating to New Technology While Maintaining Old IT](http://www.fedtechmagazine.com/article/2015/07/migrating-new-technology-while-maintaining-old-it)", FedTech, 28 July 2015
 "[Where the cloud fits in the future of government IT operations](http://americancityandcounty.com/hardware-software/where-cloud-fits-future-government-it-operations-related-video)", American City & County, 30 March 2015
 "[A new take on the cloud divide: 'It's pets and cattle'](http://fcw.com/articles/2015/02/12/looking-at-federal-cloud.aspx)", Federal Computer Week, 12 February 2015
 "[2014: Year of Open Source Miracles](http://opensource.com/government/14/11/open-source-software-security-vulnerabilities)", opensource.com, 25 November 2014
