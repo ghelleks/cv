@@ -50,7 +50,7 @@ FedScoop 50 Award, 2012
 ### Experience
 
 **Red Hat**: *Director, Product Management, Linux and Virtualization* __2015-present__
-  Ran the product management teams for Red Hat Enterprise Linux, Red Hat Enterprise Virtualization, and the Red Hat Atomic Enterprise Platform, Red Hat's flagship offerings in linux, virtualization, and containers.
+  Ran the product management teams for Red Hat Enterprise Linux, Red Hat Enterprise Virtualization, and the Red Hat Enterprise Linux Atomic Host, Red Hat's flagship offerings in linux, virtualization, and containers.
 
 **Red Hat**: *Chief Strategist, US Public Sector* __2010-2014__
   Set direction for sales and product teams in the US Federal, state, and local markets for a $1.5 billion open source technology business, contributing to an average 20% growth each year.
