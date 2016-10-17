@@ -50,7 +50,7 @@ FedScoop 50 Award, 2012
 ### Experience
 
 **Red Hat**: *Director, Product Management, Linux and Virtualization* __2015-present__
-  Ran the product management teams for Red Hat Enterprise Linux, Red Hat Enterprise Virtualization, and the Red Hat Enterprise Linux Atomic Host, Red Hat's flagship offerings in linux, virtualization, and containers.
+  Runs the product management teams for Red Hat Enterprise Linux, Red Hat Enterprise Virtualization, and the Red Hat Enterprise Linux Atomic Host, Red Hat's flagship offerings in linux, virtualization, and containers.
 
 **Red Hat**: *Chief Strategist, US Public Sector* __2010-2014__
   Set direction for sales and product teams in the US Federal, state, and local markets for a $1.5 billion open source technology business, contributing to an average 20% growth each year.
@@ -99,6 +99,7 @@ FedScoop 50 Award, 2012
 
 ### Media
 
+"[Are Containers and Virtual Machines Really Competitors?](https://virtualizationreview.com/articles/2016/06/10/are-containers-and-virtual-machines-really-competitors.aspx), Virtualization Review, 10 June 2016
 "[Open source software gains traction in federal IT](http://fedscoop.com/open-source-gains-traction-in-federal-it-speakers)", FedScoop, 10 November 2015
 "[Migrating to New Technology While Maintaining Old IT](http://www.fedtechmagazine.com/article/2015/07/migrating-new-technology-while-maintaining-old-it)", FedTech, 28 July 2015
 "[Where the cloud fits in the future of government IT operations](http://americancityandcounty.com/hardware-software/where-cloud-fits-future-government-it-operations-related-video)", American City & County, 30 March 2015
@@ -139,6 +140,7 @@ FedScoop 50 Award, 2012
 
 ### Talks
 
+"[Moving Red Hat Enterprise Linux into a New World](https://www.youtube.com/watch?v=pf8Tuq0VAXc)", Red Hat Summit, 2016
 "[New Paradigms in Application Development](https://www.eventbrite.com/e/new-paradigms-in-application-development-carving-governments-place-in-the-cloud-registration-14976848156)", FedInsider and George Washington University, 12 February 2015
 "[US Government vs. Open Source](http://s2lq.com/programme)", Salon du Logiciel Libre du Québec, 17 September 2014
 "[We Can Do More When We Work Together](http://www.slideshare.net/FedScoop/lcogit-fedscoop201408)", Lowering Cost of Government IT Summit 2014, 25 August 2014
