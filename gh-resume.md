@@ -99,6 +99,7 @@ FedScoop 50 Award, 2012
 
 ### Media
 
+"[2017 Predictions: It's not "containers or virtualization." It's "containers AND virtualization."](http://vmblog.com/archive/2017/01/12/red-hat-2017-predictions-it-s-not-containers-or-virtualization-it-s-containers-and-virtualization.aspx)", VMBlog, 12 January 2017
 "[Are Containers and Virtual Machines Really Competitors?](https://virtualizationreview.com/articles/2016/06/10/are-containers-and-virtual-machines-really-competitors.aspx), Virtualization Review, 10 June 2016
 "[Open source software gains traction in federal IT](http://fedscoop.com/open-source-gains-traction-in-federal-it-speakers)", FedScoop, 10 November 2015
 "[Migrating to New Technology While Maintaining Old IT](http://www.fedtechmagazine.com/article/2015/07/migrating-new-technology-while-maintaining-old-it)", FedTech, 28 July 2015
